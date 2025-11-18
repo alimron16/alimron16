@@ -12,7 +12,6 @@
 - 🔧 Hands-on with **Laravel** & **Node.js**, switching stacks as needed  
 - 🧩 Love solving edge cases, fixing deprecated packages, and squashing bugs  
 - 🧠 Focused on **real-world usability**: time zones, filters, exports, and toast notifications  
-- 🎨 Passionate about **modern UI/UX**: gradients, glassmorphism, emoji badges  
 - 🛠️ Always building tools that are **robust, minimalistic, and delightful to use**
 
 ---
